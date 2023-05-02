@@ -1,0 +1,25 @@
+<resources>
+    <string name="lan_uzbek">Uzbek</string>
+    <string name="lan_english">English</string>
+    <string name="lan_russian">Russian</string>
+    <string name="system_language">Program language</string>
+    <string name="settings">Settings</string>
+    <string name="to_continue">Continue</string>
+    <string name="choose_system_language">Language</string>
+    <string name="leave_comment">Feedback</string>
+    <string name="dark_theme">Night mode</string>
+    <string name="permission_rationale_title">Permission required</string>
+    <string name="understood">OK</string>
+    <string name="ar_camera_rationale">You need permission to use the camera to use the AR feature</string>
+    <string name="about">About</string>
+    <string name="about_app_title">About armp</string>
+    <string name="about_app_body">armp (Augmented Reality - Mobile Programming) is a mobile application prepared for Mobile Programming Subject. The developers are Makhmudjon, Javokhir, Sokhibjon, and Abdulloh.</string>
+    <string name="about_disclaimer_title">Disclaimer</string>
+    <string name="about_disclaimer_body">This app is for educational purposes only. The 3D models used in this app come from sketchfab.com which are provided with free of charge by their creators.</string>
+    <string name="start">Start</string>
+    <string name="transport">Transport</string>
+    <string name="planets">Planets</string>
+    <string name="animals">Animals</string>
+    <string name="dinosaurs">Dinosaurs</string>
+    <string name="count">%d items</string>
+</resources>

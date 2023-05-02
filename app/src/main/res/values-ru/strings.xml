@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lan_uzbek">Узбекский</string>
+    <string name="lan_english">Английский</string>
+    <string name="lan_russian">Русский</string>
+    <string name="system_language">Язык программы</string>
+    <string name="settings">Настройки</string>
+    <string name="to_continue">Продолжить</string>
+    <string name="choose_system_language">Язык</string>
+    <string name="leave_comment">Оставить отзыв</string>
+    <string name="dark_theme">Ночной режим</string>
+    <string name="permission_rationale_title">Требуется разрешение</string>
+    <string name="understood">Понятно</string>
+    <string name="ar_camera_rationale">Необходимо разрешение на доступ к камере, чтобы использовать функцию AR</string>
+    <string name="about">О приложении</string>
+    <string name="about_app_title">О приложении aрмп</string>
+    <string name="about_app_body">armp (дополненная реальность — мобильное программирование) — мобильное приложение, подготовленное для предмета мобильного программирования. Разработчики - Махмуджон, Джавохир, Сохибжон и Абдулло.</string>
+    <string name="about_disclaimer_title">Отказ от ответственности</string>
+    <string name="about_disclaimer_body">ЭЭто приложение предназначено только для образовательных целей. 3D-модели, используемые в этом приложении, взяты с сайта sketchfab.com, которые бесплатно предоставляются их создателями.</string>
+    <string name="start">Начинать</string>
+    <string name="transport">Транспорт</string>
+    <string name="planets">Планеты</string>
+    <string name="animals">Животные</string>
+    <string name="dinosaurs">Динозавры</string>
+    <string name="count">%d предмета</string>
+</resources>
